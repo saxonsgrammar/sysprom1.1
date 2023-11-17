@@ -1,0 +1,7 @@
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\bin\Debug\app_4.exe.config
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\bin\Debug\app_4.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\bin\Debug\app_4.pdb
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\obj\Debug\app_4.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\obj\Debug\app_4.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\obj\Debug\app_4.exe
+C:\Users\Mcintosh\Downloads\СисПром\сп1\app_4\obj\Debug\app_4.pdb
